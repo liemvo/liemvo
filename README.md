@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liemvo
 - 👀 I’m interested in Mobile
-- 🌱 I’m currently cooking Android apps
+- 🌱 I’m currently cooking mobile apps
 - 💞️ I’m looking to collaborate on Mobile
 - 📫 How to reach me ...
 
