@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liemvo
 - 👀 I’m interested in Mobile
-- 🌱 I’m currently learning Kmm, jetpack compose
-- 💞️ I’m looking to collaborate on Kmm
+- 🌱 I’m currently cooking Android apps
+- 💞️ I’m looking to collaborate on Mobile
 - 📫 How to reach me ...
 
 <!---
